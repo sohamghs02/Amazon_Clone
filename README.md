@@ -3,3 +3,5 @@ This project is a frontend clone of the Amazon shopping website, built using HTM
 
 Link to the web-page: 
 https://sohamghs02.github.io/Amazon_Clone/
+
+![image](https://github.com/user-attachments/assets/22d03aa7-1441-4937-b76e-a43496f1027c)
